@@ -1,13 +1,17 @@
-# start
+# Paper Reading
 
-***github***:
+[track](./track/学习记录.md)
 
-https://blog.csdn.net/rj597306518/article/details/71307757
+[detection](./detection/学习记录.md)
 
-***git***:
+[classification](./classification/学习记录.md)
 
-https://blog.csdn.net/chenxiqilin/article/details/53941419
+[face detection and recognition](./face&#32;detection&#32;and&#32;recognition/学习记录.md)
 
-***Markdown***:
+[segmentation](./segmentation/学习记录.md)
 
-https://zhuanlan.zhihu.com/p/56943330
+[Imagesuperresolution](./Image&#32;super-resolution/学习记录.md)
+
+[Pruning distillation quantification](./Pruning&#32;distillation&#32;quantification/学习记录.md)
+
+***好好学习 天天向上***
