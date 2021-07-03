@@ -14,4 +14,12 @@
 
 [Pruning distillation quantification](./Pruning&#32;distillation&#32;quantification/学习记录.md)
 
+[Image Animate](./Image&#32;Animate/学习记录.md)
+
+[GAN](./GAN/学习记录.md)
+
+[NAS](./NAS/学习记录.md)
+
+[train tricks](./train&#32;tricks/学习记录.md)
+
 ***好好学习 天天向上***
